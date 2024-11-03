@@ -17,6 +17,7 @@ const priorityInput = document.getElementById('Priority');
 const descriptionInput = document.getElementById('description');
 const submitButton = document.getElementById('submit');
 const todoList = document.getElementById('todo1');
+
 const doingList = document.getElementById('doing1');
 const doneList = document.getElementById('done1');
 
